@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="GitTable" language="en" table="x_nete_github_inte_gittable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>GitTable</label>
+            <language>en</language>
+            <name>x_nete_github_inte_gittable</name>
+            <plural>GitTables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 12:53:23</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>GitTable</sys_name>
+            <sys_package display_value="Github Integration Demo" source="x_nete_github_inte">4a5ef8f9dbedb5d04cb56b4b13961925</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Github Integration Demo">4a5ef8f9dbedb5d04cb56b4b13961925</sys_scope>
+            <sys_update_name>sys_documentation_x_nete_github_inte_gittable__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 12:53:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
